@@ -1,0 +1,7 @@
+Run order:
+
+1. enron_email_parsing_orig.ipynb
+
+2. enron_from_to_clustering.ipynb
+
+3. enron_clustered_matcher.ipynb
